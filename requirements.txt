@@ -1,0 +1,4 @@
+wadllib~=1.3.6
+launchpadlib~=1.10.15.1
+gitlptools @ git+git://git.launchpad.net/gitlptools@ab495d9392556e148af2601b74a8dabd81e64242
+click~=8.0.3
